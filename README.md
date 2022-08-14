@@ -8,7 +8,7 @@ Let's see how `same stats` can have `different graphs`: ***Even if you’re very
 
 Anscombe’s quartet is a well-known statistical dataset debuncking the all maths way is better: statistical methods don't always gives us all information we need.  
 It shows data visualization is not inferior to analytics as summary statistics can hide something that was clearest with the visualization.
-- https://en.wikipedia.org/wiki/Anscombe%27s_quartet
+
 
 # DataSaurus: Anscombe’s quartet's "generalization"
 
